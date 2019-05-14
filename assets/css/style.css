@@ -1,0 +1,24 @@
+
+body{
+    background:lightblue;
+}
+
+h1{
+    display: flex;
+    justify-content: center;
+}
+
+
+.animal-button{
+    display: flex;
+    flex-direction: column;
+    /* justify-content: space-between; */
+    /* justify-content: center; */
+    /* margin: 10px; */
+
+}
+
+.animal-form{
+    display: flex;
+    justify-content: flex-end;
+}
